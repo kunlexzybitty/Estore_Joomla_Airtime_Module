@@ -6,8 +6,11 @@ After successful payment has been made, you will be credited with the amount pay
 
 To get started,
 Step 1: install our joomla module
+
 Step 2: Navigate to module manager and add new module "eStore Airtime Web Api"
+
 Step 3: Enter a title for the module and eStore Account Username
+
 Step 4: Select a desirable position then save
 
 Note:
