@@ -5,6 +5,7 @@ This API allows visitors on your website to purchase airtime directly from your 
 After successful payment has been made, you will be credited with the amount payed and debited with the amount we charge for that airtime amount.
 
 To get started,
+
 Step 1: install our joomla module
 
 Step 2: Navigate to module manager and add new module "eStore Airtime Web Api"
