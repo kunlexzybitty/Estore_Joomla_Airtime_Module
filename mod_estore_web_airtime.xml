@@ -1,0 +1,22 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+
+<extension type = "module" version = "3.1.0" client = "site" method="upgrade">
+    <name>eStore Airtime Web Api</name>
+    <author>eStore Web Solution</author>
+    <email>info@estoresms.com</email>
+    <version>1.0</version>
+    <description>Reseller airtime recharge api for joomla website</description>
+    <files>
+        <filename>mod_estore_web_airtime.xml</filename>
+        <filename module = "mod_estore_web_airtime">mod_estore_web_airtime.php</filename>
+     </files>
+    <config>
+        <fields name="params">
+            <fieldset name="basic">
+                 <field name="username"  type="text" default="" label="Enter eStore Account Username" description="Enter eStore Account Username" />
+            </fieldset>
+
+        </fields>
+    </config>
+
+</extension>
